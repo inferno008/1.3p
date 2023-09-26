@@ -1,0 +1,191 @@
+
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  /* Style for the active router link */
+  .router-link-exact-active {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  /* CSS for Home.vue */
+  /* CSS for the Home component */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    background-color: #444;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  nav li {
+    display: inline;
+    margin: 0 1rem;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .introduction {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 5px;
+    margin: 2rem;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  /* CSS for PriceList.vue */
+  /* CSS for the PriceList component */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    background-color: #444;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  nav li {
+    display: inline;
+    margin: 0 1rem;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .price-list {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 5px;
+    margin: 2rem;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+  }
+  
+  table th, table td {
+    padding: 0.5rem;
+    text-align: center;
+    border: 1px solid #ccc;
+  }
+  
+  table th {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  p {
+    text-align: center;
+    margin-top: 1rem;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  /* CSS for Contact.vue */
+  /* CSS for the Contact component */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    background-color: #444;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  nav li {
+    display: inline;
+    margin: 0 1rem;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .contact-details, .contact-form {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 5px;
+    margin: 2rem;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin: 0.5rem 0;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #333;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #444;
+  }
+  
+  /* Additional CSS styles for the consolidated file can be added here */
+  
